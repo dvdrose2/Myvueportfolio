@@ -1,4 +1,5 @@
 # MyPortfolio
+This was one of my very first projects done in Vue.js. 
   
 Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
   
